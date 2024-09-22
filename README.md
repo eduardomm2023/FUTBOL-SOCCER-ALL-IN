@@ -1,7 +1,7 @@
 # FUTBOL-SOCCER-ALL-IN
 ![](FUTBOL_04_ANALISIS_DATOS.jpeg)
 # En este repositorio iré subiendo todo aquello que vaya haciendo en relación al Fútbol y el ámbito tecnológico.
-# https://www.kaggle.com/datasets?search=health
+# https://www.kaggle.com/datasets?search=soccer
 ![](kaggle.png)
 # Se trata de ir viendo la evolución y consolidación de los conceptos adquiridos en el análisis de datos.
 # Como SIEMPRE, TODOS los consejos, sugerencias, anotaciones, indicaciones, críticas (siempre que sean CONSTRUCTIVAS), comentarios, etc son y serán BIENVENIDOS.
