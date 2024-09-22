@@ -1,5 +1,5 @@
 # FUTBOL-SOCCER-ALL-IN
-![]()
+![](FUTBOL_04_ANALISIS_DATOS.jpeg)
 # En este repositorio iré subiendo todo aquello que vaya haciendo en relación al Fútbol y el ámbtio tecnológico.
 # https://www.kaggle.com/datasets?search=health
 ![](kaggle.png)
