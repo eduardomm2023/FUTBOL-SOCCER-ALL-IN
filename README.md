@@ -1,7 +1,6 @@
 # FUTBOL-SOCCER-ALL-IN
 <p align="center">
   <img src = "FUTBOL_04_ANALISIS_DATOS.jpeg" alt = "Imagen de cabecera para el repositorio de Fútbol-Todo en uno">
-![](FUTBOL_04_ANALISIS_DATOS.jpeg)
 </p>
 # En este repositorio iré subiendo todo aquello que vaya haciendo en relación al Fútbol y el ámbito tecnológico.
 # https://www.kaggle.com/datasets?search=soccer
