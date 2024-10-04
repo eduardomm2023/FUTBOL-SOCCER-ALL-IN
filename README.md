@@ -19,5 +19,5 @@
 # - Visual Studio Code
 # El informe final lo he generado en formato csv.
 # Muchas gracias a todos.
-![](FIFA.jpg)
+![](FIFA2.jpg)
 <p><a target="_blank" href="01MUNDIALES_FUTBOL_CON_SELENIUM.ipynb"> ANÁLISIS DE MUNDIALES DE FÚTBOL REALIZADO CON SELENIUM. PROYECTO 03.</a></p>
