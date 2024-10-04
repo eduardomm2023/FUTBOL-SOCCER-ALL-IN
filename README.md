@@ -2,9 +2,8 @@
 ![](FUTBOL_04_ANALISIS_DATOS.jpeg)
 # En este repositorio iré subiendo todo aquello que vaya haciendo en relación al Fútbol y el ámbito tecnológico.
 # https://www.kaggle.com/datasets?search=soccer
-<p align="center" width="100%"> 
-  <img width = "33%" src =![](kaggle.png)>
-</p>
+![](kaggle.png)>
+
 # Se trata de ir viendo la evolución y consolidación de los conceptos adquiridos en el análisis de datos.
 # Como SIEMPRE, TODOS los consejos, sugerencias, anotaciones, indicaciones, críticas (siempre que sean CONSTRUCTIVAS), comentarios, etc son y serán BIENVENIDOS.
 <a href="mailto:loquelojonove1975@gmail.com" target="_blank" title="Email" rel="noopener"><img src="Comentarios.jpg" title="Email"></i></a>
@@ -23,5 +22,7 @@
 # - Visual Studio Code
 # El informe final lo he generado en formato csv.
 # Muchas gracias a todos.
-![](FIFA2.jpg)
+<p align="center" width="100%"> 
+  <img width = "33%" src =![](FIFA2.jpg)>
+</p>
 <p><a target="_blank" href="01MUNDIALES_FUTBOL_CON_SELENIUM.ipynb"> ANÁLISIS DE MUNDIALES DE FÚTBOL REALIZADO CON SELENIUM. PROYECTO 01.</a></p>
