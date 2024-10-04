@@ -1,5 +1,8 @@
 # FUTBOL-SOCCER-ALL-IN
+<p align="center">
+  <img src = "FUTBOL_04_ANALISIS_DATOS.jpeg" alt = "Imagen de cabecera para el repositorio de Fútbol-Todo en uno">
 ![](FUTBOL_04_ANALISIS_DATOS.jpeg)
+</p>
 # En este repositorio iré subiendo todo aquello que vaya haciendo en relación al Fútbol y el ámbito tecnológico.
 # https://www.kaggle.com/datasets?search=soccer
 ![](kaggle.png)>
@@ -28,4 +31,4 @@
   <img src = "FIFA2.jpg" alt = " Imagen de los diferentes Mundiales de fútbol">
 </p>
 <p><a target="_blank" href="01MUNDIALES_FUTBOL_CON_SELENIUM.ipynb"> ANÁLISIS DE MUNDIALES DE FÚTBOL REALIZADO CON SELENIUM. PROYECTO 01.</a></p>
-![](FIFA2.jpg)
+
