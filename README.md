@@ -10,7 +10,7 @@
 # Se trata de ir viendo la evolución y consolidación de los conceptos adquiridos en el análisis de datos.
 # Como SIEMPRE, TODOS los consejos, sugerencias, anotaciones, indicaciones, críticas (siempre que sean CONSTRUCTIVAS), comentarios, etc son y serán BIENVENIDOS.
 <p align="center">
-  <a href="mailto:loquelojonove1975@gmail.com" target="_blank" title="Email" rel="noopener"><img src="Comentarios.jpg" title="Email"></i></a>
+  <a href="mailto:loquelojonove1975@gmail.com" target="_blank" rel = "noopener noreferrer" title="Email" rel="noopener"><img src="Comentarios.jpg" title="Email"></i></a>
 </p>
 
 <br></br>
@@ -30,5 +30,5 @@
 <p align="center"> 
   <img src = "FIFA2.jpg" alt = " Imagen de los diferentes Mundiales de fútbol">
 </p>
-<p><a target="_blank" href="01MUNDIALES_FUTBOL_CON_SELENIUM.ipynb"> ANÁLISIS DE MUNDIALES DE FÚTBOL REALIZADO CON SELENIUM. PROYECTO 01.</a></p>
+<p><a target="_blank" rel = "noopener noreferrer" href="01MUNDIALES_FUTBOL_CON_SELENIUM.ipynb"> ANÁLISIS DE MUNDIALES DE FÚTBOL REALIZADO CON SELENIUM. PROYECTO 01.</a></p>
 
