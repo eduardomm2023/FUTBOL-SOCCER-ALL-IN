@@ -1,4 +1,4 @@
-# FUTBOL-SOCCER-ALL-I
+# FUTBOL-SOCCER-ALL-IN
 <p align="center">
   <img src = "FUTBOL_04_ANALISIS_DATOS.jpeg" alt = "Imagen de cabecera para el repositorio de Fútbol-Todo en uno">
 </p>
